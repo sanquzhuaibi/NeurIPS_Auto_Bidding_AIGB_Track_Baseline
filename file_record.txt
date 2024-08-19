@@ -1,0 +1,2 @@
+run_decision_transformer_O5虑虑了constraint，将题目的两个constraint换成了一个,state输入ctg, rtg, s, a
+run_decision_transformer_O6在run_decision_transformer_O5的基础上融入多个dataset，同时对reward进行衰减

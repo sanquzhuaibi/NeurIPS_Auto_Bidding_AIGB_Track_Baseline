@@ -1,0 +1,7 @@
+**/__pycache__
+**/*.pyc
+*output*
+*data
+.git/
+./bidding_train_env/data
+./results
