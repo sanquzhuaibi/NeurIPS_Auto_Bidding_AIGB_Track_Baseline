@@ -6,3 +6,4 @@
 *.pyc
 */events.out.tfevents*
 results/dt*
+deploy.sh
